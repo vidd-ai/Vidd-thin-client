@@ -19,13 +19,13 @@ I'm a thin-client bot to to help you stream video files to <a href="viddai.bitbu
 
 
 ### Install
-1. Download the zip file for your os
+1. Download the zip file for your OS
 
 + MAC: https://github.com/vidd-ai/streamer-bot/blob/master/vidd-streamer-bot-darwin-MAC.zip
 
 + Windows: https://github.com/vidd-ai/streamer-bot/blob/master/vidd-streamer-bot-win32-ia32.zip
 
-2. Unzip and click on the vidd-streamer-bot executable. That's it.
+2. Unzip the file on your desk/laptop, and click on the vidd-streamer-bot executable. That's it.
 
 
 ### Collaboration/feedback/issues
