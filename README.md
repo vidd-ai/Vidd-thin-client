@@ -1,7 +1,7 @@
-# Vidd streamer-bot
+# Vidd thin client
 ### About
 
-I'm a thin-client bot to to help you stream video files to <a href="viddai.bitbucket.io">Vidd.ai</a> for processing
+I'm a thin-client designed to help you easily stream video files to <a href="viddai.bitbucket.io">Vidd.ai</a> for processing
 
 +  I resize (and transcode if necessary) files you choose to send to the vidd cloud server for processing  
 (   `h265's source files are ok!`)
