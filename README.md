@@ -1,5 +1,5 @@
-# Vidd thin client
-### About
+
+### About me, the Vidd thin client
 
 I'm a thin-client designed to help you easily stream video files to <a href="viddai.bitbucket.io">Vidd.ai</a> for processing
 
