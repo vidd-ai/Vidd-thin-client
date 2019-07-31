@@ -23,9 +23,18 @@ I'm a thin-client designed to help you easily stream video files to <a href="vid
 
 + [MAC](https://vidd-ai.github.io/streamer-bot/vidd-streamer-bot-darwin-x64.zip)
 
-+ [Windows](https://vidd-ai.github.io/streamer-bot/vidd-streamer-bot-win32-ia32.zip)
++ [Windows](https://vidd-ai.github.io/streamer-bot/vidd-streamer-bot-win32-ia32.zip) 
+
+ 
 
 2. Unzip the file on your desk/laptop, and click on the vidd-streamer-bot executable. That's it.
+
+ + Windows users *take note*
+ 
+     The very first time you use the vidd-streamer-bot, please enable your anti-virus settings to allow installs.
+     (`This is to allow the thin client to install 3 helper apps in the background: curl, ffmpeg, and ffprobe, which it will need.`) 
+     
+    You can reset to your original anti-virus settings immediately after your very first file uploads (`use the <show status> button to check`).
 
 
 ### Collaboration/feedback/issues
