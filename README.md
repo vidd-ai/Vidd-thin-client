@@ -1,7 +1,7 @@
 
 ### About
 
-I'm a desk/laptop thin-client designed to help you easily stream video files to <a href="http://vidd.ai">Vidd.ai</a> for processing
+I'm a desk/laptop thin client designed to help you easily stream video files to <a href="http://vidd.ai">Vidd.ai</a> for processing
 
 +  I resize (and transcode if necessary) files you choose to send to the vidd cloud server for processing  
 (   `h265's source files are ok!`)
@@ -15,7 +15,7 @@ I'm a desk/laptop thin-client designed to help you easily stream video files to 
 ### Version
 
   Currently for MAC OSx and Windows
-  (`actively calling for collaborators for Windows`)
+
 
 
 ### Install
@@ -38,4 +38,5 @@ I'm a desk/laptop thin-client designed to help you easily stream video files to 
 
 ### Collaboration/feedback/issues
 `founder.vidd.ai at gmail`
+  (`actively calling for collaborators for Windows`)
 
