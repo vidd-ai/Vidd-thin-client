@@ -1,7 +1,7 @@
 
-### About me, the Vidd thin client
+### About
 
-I'm a thin-client designed to help you easily stream video files to <a href="viddai.bitbucket.io">Vidd.ai</a> for processing
+I'm a desk/laptop thin client designed to help you easily stream video files to <a href="http://vidd.ai">Vidd.ai</a> for processing
 
 +  I resize (and transcode if necessary) files you choose to send to the vidd cloud server for processing  
 (   `h265's source files are ok!`)
@@ -15,7 +15,7 @@ I'm a thin-client designed to help you easily stream video files to <a href="vid
 ### Version
 
   Currently for MAC OSx and Windows
-  (`actively calling for collaborators for Windows`)
+
 
 
 ### Install
@@ -29,14 +29,14 @@ I'm a thin-client designed to help you easily stream video files to <a href="vid
 
 2. Unzip the file on your desk/laptop, and click on the vidd-streamer-bot executable. That's it.
 
- + Windows users *take note*
+ + First-time Users *take note*
  
-     The very first time you use the vidd-streamer-bot, please enable your anti-virus settings to allow installs.
-     (`This is to allow the thin client to install 3 helper apps in the background: curl, ffmpeg, and ffprobe, which it will need.`) 
+     The very first time you use the vidd-streamer-bot, you will need to enable your local machine system preferences settings to allow installs.
+     (`This is to allow the thin client to install 3 helper apps in the background: curl, ffmpeg, and ffprobe, which it will need.  These are one-time installs.`) 
      
-    You can reset to your original anti-virus settings immediately after your very first file uploads (`use the <show status> button to check`).
-
+    You can revert to your original system settings immediately after your very first file uploads (`use the <show status> button to check`).
 
 ### Collaboration/feedback/issues
 `founder.vidd.ai at gmail`
+  (`actively calling for collaborators for Windows`)
 
