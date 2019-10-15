@@ -21,9 +21,9 @@ I'm a desk/laptop thin client designed to help you easily stream video files to 
 ### Install
 1. Download the zip file for your OS
 
-+ [MAC](https://vidd-ai.github.io/vidd-thin-client/vidd-thin-client-darwin-x64.zip)
++ [MAC](https://vidd-ai.github.io/vidd-thin-client/Vidd-thin-client-darwin-x64.zip)
 
-+ [Windows](https://vidd-ai.github.io/vidd-thin-client/vidd-thin-client-win32-ia32.zip) 
++ [Windows](https://vidd-ai.github.io/vidd-thin-client/Vidd-thin-client-win32-ia32.zip) 
 
  
 
