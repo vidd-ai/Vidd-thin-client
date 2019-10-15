@@ -21,9 +21,9 @@ I'm a desk/laptop thin client designed to help you easily stream video files to 
 ### Install
 1. Download the zip file for your OS
 
-+ [MAC](https://vidd-ai.github.io/streamer-bot/vidd-thin-client-darwin-x64.zip)
++ [MAC](https://vidd-ai.github.io/thin-client/vidd-thin-client-darwin-x64.zip)
 
-+ [Windows](https://vidd-ai.github.io/streamer-bot/vidd-thin-client-win32-ia32.zip) 
++ [Windows](https://vidd-ai.github.io/thin-client/vidd-thin-client-win32-ia32.zip) 
 
  
 
@@ -31,7 +31,7 @@ I'm a desk/laptop thin client designed to help you easily stream video files to 
 
  + First-time Users *take note*
  
-     The very first time you use the vidd-streamer-bot, you will need to enable your local machine system preferences settings to allow installs.
+     The very first time you use the Vidd thin client, you will need to enable your local machine system preferences settings to allow installs.
      (`This is to allow the thin client to install 3 helper apps in the background: curl, ffmpeg, and ffprobe, which it will need.  These are one-time installs.`) 
      
     You can revert to your original system settings immediately after your very first file uploads (`use the <show status> button to check`).
