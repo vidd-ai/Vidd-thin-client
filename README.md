@@ -3,7 +3,7 @@
 
 I'm a desk/laptop thin client designed to help you easily stream video files to <a href="http://vidd.ai">Vidd.ai</a> for processing
 
-+  I resize (and transcode if necessary) files you choose to send to the vidd cloud server for processing  
++  I resize (and transcode if necessary) files you choose to send to the Vidd.ai private cloud servers for processing  
 (   `h265's source files are ok!`)
 +  I execute jobs *in parallel* to shorten upload times
 (`I run as if in the background with little interference on your desk/laptop`)
